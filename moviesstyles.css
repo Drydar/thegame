@@ -10,7 +10,7 @@ header {
     background-color: #111;
     color: #fff;
     text-align: center;
-    padding: 10px 1px;
+    padding: 0px;
 }
 
 header nav ul {
@@ -30,23 +30,23 @@ header nav ul li {
 header nav ul li a {
     color: #eee;
     text-decoration: none;
-    padding: 2px 2px ;
+    padding: 0px;
 }
 
 section {
-    padding: 20px;
-    margin: 20px 10;
+    padding: 10px;
+    margin: 0px;
     background-color: #fff;
-    border: 2px none #999;
+    border: 0px none #999;
     border-color: none;
-    text-align: left;
+    text-align: center;
 }
 
 footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding:1px 0;
+    padding:0px 0;
 }
 
 footer a {
